@@ -1,6 +1,8 @@
 # Solanum pimpinellifolium Gene-Environment Association
 Matt Gibson (gibsomat@indiana.edu)
 
+Gibson, MJS & Moyle, LC. (2020). Regional differences in the abiotic environment contribute to genomic divergence within a wild tomato species. *Molecular Ecology*  https://doi.org/10.1111/mec.15477
+
 Stacks pipeline. 140 *Solanum pimpinellifolium* individuals (assembled into two ddRAD libraries using PstI and EcoRI) were sequenced across two NextSeq flowcells (mid output; PE; 150bp).
 
 ## Pre-process data
